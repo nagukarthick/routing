@@ -1,0 +1,9 @@
+.big {
+  color: purple;
+}
+.btn {
+  border: none;
+  outline: none;
+  color: white;
+  background-color: purple;
+}
